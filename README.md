@@ -2,6 +2,7 @@
 
 A simple program to check whether two fish are compatible in an aquarium.
 Currently in the works.
+
 To be done: 
 - consider water temperature, pH requirements, and diet of each species
 - consider reef compatibility for marine species
